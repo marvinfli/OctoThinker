@@ -1,0 +1,738 @@
+1b long
+
+{
+    "amc-cot": {
+        "cot": {
+            "accuracy": 0.075,
+            "n_samples": 40
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "asdiv-cot": {
+        "cot": {
+            "accuracy": 0.725507900677201,
+            "n_samples": 2215
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "gsm8k-cot": {
+        "cot": {
+            "accuracy": 0.37149355572403336,
+            "n_samples": 1319
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "math-500-cot": {
+        "cot": {
+            "accuracy": 0.164,
+            "n_samples": 500
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "math-cot": {
+        "cot": {
+            "accuracy": 0.2174,
+            "n_samples": 5000
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "math_sat-cot": {
+        "cot": {
+            "accuracy": 0.3125,
+            "n_samples": 32
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "mathqa-cot": {
+        "cot": {
+            "accuracy": 0.332,
+            "n_samples": 1000
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "mawps-cot": {
+        "cot": {
+            "accuracy": 0.8314769975786925,
+            "n_samples": 2065
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "mmlu-stem-cot": {
+        "cot": {
+            "accuracy": 0.36447978793903246,
+            "n_samples": 3018
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "ocw-courses-cot": {
+        "cot": {
+            "accuracy": 0.04044117647058824,
+            "n_samples": 272
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "olympiad-bench-cot": {
+        "cot": {
+            "accuracy": 0.034074074074074076,
+            "n_samples": 675
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "svamp-cot": {
+        "cot": {
+            "accuracy": 0.558,
+            "n_samples": 1000
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "tabmwp-cot": {
+        "cot": {
+            "accuracy": 0.501,
+            "n_samples": 1000
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    }
+}
+
+
+1b hybrid
+
+{
+    "amc-cot": {
+        "cot": {
+            "accuracy": 0.1,
+            "n_samples": 40
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "asdiv-cot": {
+        "cot": {
+            "accuracy": 0.7530474040632055,
+            "n_samples": 2215
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "gsm8k-cot": {
+        "cot": {
+            "accuracy": 0.42380591357088704,
+            "n_samples": 1319
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "math-500-cot": {
+        "cot": {
+            "accuracy": 0.264,
+            "n_samples": 500
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "math-cot": {
+        "cot": {
+            "accuracy": 0.285,
+            "n_samples": 5000
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "math_sat-cot": {
+        "cot": {
+            "accuracy": 0.5625,
+            "n_samples": 32
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "mathqa-cot": {
+        "cot": {
+            "accuracy": 0.369,
+            "n_samples": 1000
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "mawps-cot": {
+        "cot": {
+            "accuracy": 0.8857142857142857,
+            "n_samples": 2065
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "mmlu-stem-cot": {
+        "cot": {
+            "accuracy": 0.38601722995361165,
+            "n_samples": 3018
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "ocw-courses-cot": {
+        "cot": {
+            "accuracy": 0.0625,
+            "n_samples": 272
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "olympiad-bench-cot": {
+        "cot": {
+            "accuracy": 0.054814814814814816,
+            "n_samples": 675
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "svamp-cot": {
+        "cot": {
+            "accuracy": 0.632,
+            "n_samples": 1000
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "tabmwp-cot": {
+        "cot": {
+            "accuracy": 0.516,
+            "n_samples": 1000
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    }
+}
+
+
+1b short
+
+
+{
+    "amc-cot": {
+        "cot": {
+            "accuracy": 0.1,
+            "n_samples": 40
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "asdiv-cot": {
+        "cot": {
+            "accuracy": 0.7525959367945824,
+            "n_samples": 2215
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "gsm8k-cot": {
+        "cot": {
+            "accuracy": 0.4488248673237301,
+            "n_samples": 1319
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "math-500-cot": {
+        "cot": {
+            "accuracy": 0.278,
+            "n_samples": 500
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "math-cot": {
+        "cot": {
+            "accuracy": 0.2998,
+            "n_samples": 5000
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "math_sat-cot": {
+        "cot": {
+            "accuracy": 0.46875,
+            "n_samples": 32
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "mathqa-cot": {
+        "cot": {
+            "accuracy": 0.367,
+            "n_samples": 1000
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "mawps-cot": {
+        "cot": {
+            "accuracy": 0.8808716707021792,
+            "n_samples": 2065
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "mmlu-stem-cot": {
+        "cot": {
+            "accuracy": 0.3790589794565938,
+            "n_samples": 3018
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "ocw-courses-cot": {
+        "cot": {
+            "accuracy": 0.0661764705882353,
+            "n_samples": 272
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "olympiad-bench-cot": {
+        "cot": {
+            "accuracy": 0.03851851851851852,
+            "n_samples": 675
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "svamp-cot": {
+        "cot": {
+            "accuracy": 0.612,
+            "n_samples": 1000
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "tabmwp-cot": {
+        "cot": {
+            "accuracy": 0.512,
+            "n_samples": 1000
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    }
+}
+
+
+1b long
+
+{
+    "amc-cot": {
+        "cot": {
+            "accuracy": 0.075,
+            "n_samples": 40
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "asdiv-cot": {
+        "cot": {
+            "accuracy": 0.7990970654627539,
+            "n_samples": 2215
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "gsm8k-cot": {
+        "cot": {
+            "accuracy": 0.5610310841546626,
+            "n_samples": 1319
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "math-500-cot": {
+        "cot": {
+            "accuracy": 0.258,
+            "n_samples": 500
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "math-cot": {
+        "cot": {
+            "accuracy": 0.2998,
+            "n_samples": 5000
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "math_sat-cot": {
+        "cot": {
+            "accuracy": 0.65625,
+            "n_samples": 32
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "mathqa-cot": {
+        "cot": {
+            "accuracy": 0.454,
+            "n_samples": 1000
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "mawps-cot": {
+        "cot": {
+            "accuracy": 0.9167070217917676,
+            "n_samples": 2065
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "mmlu-stem-cot": {
+        "cot": {
+            "accuracy": 0.48111332007952284,
+            "n_samples": 3018
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "ocw-courses-cot": {
+        "cot": {
+            "accuracy": 0.11397058823529412,
+            "n_samples": 272
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "olympiad-bench-cot": {
+        "cot": {
+            "accuracy": 0.047407407407407405,
+            "n_samples": 675
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "svamp-cot": {
+        "cot": {
+            "accuracy": 0.691,
+            "n_samples": 1000
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "tabmwp-cot": {
+        "cot": {
+            "accuracy": 0.564,
+            "n_samples": 1000
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    }
+}
+
+
+1b hybrid
+
+{
+    "amc-cot": {
+        "cot": {
+            "accuracy": 0.1,
+            "n_samples": 40
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "asdiv-cot": {
+        "cot": {
+            "accuracy": 0.8279909706546276,
+            "n_samples": 2215
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "gsm8k-cot": {
+        "cot": {
+            "accuracy": 0.643669446550417,
+            "n_samples": 1319
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "math-500-cot": {
+        "cot": {
+            "accuracy": 0.308,
+            "n_samples": 500
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "math-cot": {
+        "cot": {
+            "accuracy": 0.3176,
+            "n_samples": 5000
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "math_sat-cot": {
+        "cot": {
+            "accuracy": 0.59375,
+            "n_samples": 32
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "mathqa-cot": {
+        "cot": {
+            "accuracy": 0.475,
+            "n_samples": 1000
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "mawps-cot": {
+        "cot": {
+            "accuracy": 0.9423728813559322,
+            "n_samples": 2065
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "mmlu-stem-cot": {
+        "cot": {
+            "accuracy": 0.49734923790589797,
+            "n_samples": 3018
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "ocw-courses-cot": {
+        "cot": {
+            "accuracy": 0.08455882352941177,
+            "n_samples": 272
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "olympiad-bench-cot": {
+        "cot": {
+            "accuracy": 0.04,
+            "n_samples": 675
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "svamp-cot": {
+        "cot": {
+            "accuracy": 0.78,
+            "n_samples": 1000
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "tabmwp-cot": {
+        "cot": {
+            "accuracy": 0.578,
+            "n_samples": 1000
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    }
+}
+
+
+1b short
+
+
+{
+    "amc-cot": {
+        "cot": {
+            "accuracy": 0.025,
+            "n_samples": 40
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "asdiv-cot": {
+        "cot": {
+            "accuracy": 0.8225733634311513,
+            "n_samples": 2215
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "gsm8k-cot": {
+        "cot": {
+            "accuracy": 0.6330553449583017,
+            "n_samples": 1319
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "math-500-cot": {
+        "cot": {
+            "accuracy": 0.314,
+            "n_samples": 500
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "math-cot": {
+        "cot": {
+            "accuracy": 0.327,
+            "n_samples": 5000
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "math_sat-cot": {
+        "cot": {
+            "accuracy": 0.53125,
+            "n_samples": 32
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "mathqa-cot": {
+        "cot": {
+            "accuracy": 0.498,
+            "n_samples": 1000
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "mawps-cot": {
+        "cot": {
+            "accuracy": 0.9351089588377723,
+            "n_samples": 2065
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "mmlu-stem-cot": {
+        "cot": {
+            "accuracy": 0.4887342611000663,
+            "n_samples": 3018
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "ocw-courses-cot": {
+        "cot": {
+            "accuracy": 0.09191176470588236,
+            "n_samples": 272
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "olympiad-bench-cot": {
+        "cot": {
+            "accuracy": 0.047407407407407405,
+            "n_samples": 675
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "svamp-cot": {
+        "cot": {
+            "accuracy": 0.773,
+            "n_samples": 1000
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    },
+    "tabmwp-cot": {
+        "cot": {
+            "accuracy": 0.6,
+            "n_samples": 1000
+        },
+        "tool": {
+            "n_samples": 0
+        }
+    }
+}
