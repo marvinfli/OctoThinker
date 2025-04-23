@@ -102,9 +102,9 @@ For training framework and inference engine, we use [**verl**](https://github.c
 
 If you find this work useful, please cite:
 ```
-@misc{xxxx,
-  title={xxx},
-  author={xxxx},
+@misc{wang2025octothinker,
+  title={OctoThinker: Revisiting Mid-Training In the Era of RL Scaling},
+  author={Wang, Zengzhi and Zhou, Fan and Li, Xuefeng and Liu, Pengfei},
   year={2025},
   howpublished={\url{https://tinyurl.com/OctoThinker}},
   note={Notion Blog}
