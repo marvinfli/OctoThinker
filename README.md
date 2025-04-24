@@ -5,12 +5,12 @@
 <div align="center">
 
 [![Notion](https://img.shields.io/badge/Notion_Blog-4d8cd8?style=for-the-badge&logo=notion&logoColor=white)](https://tinyurl.com/OctoThinker)
-[![Model](https://img.shields.io/badge/Model_Weights-5f16a8?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/collections/GAIR/octothinker-68035e416813f9833a8060f3)
+[![Model](https://img.shields.io/badge/Model_Weights-5f16a8?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/OctoThinker)
 </div>
 
 
 ## 🔥 News
-- **[2025-04]** 🎉🎉🎉 We release our first progress blog on [**Notion**](https://tinyurl.com/OctoThinker), together with the first version of our base and RL models on [**HuggingFace**](https://huggingface.co/collections/GAIR/octothinker-68035e416813f9833a8060f3), which is trained on Llama-3 series.
+- **[2025-04-24]** 🎉🎉🎉 We release our first progress blog on [**Notion**](https://tinyurl.com/OctoThinker), together with the first version of our base and RL models on [**HuggingFace**](https://huggingface.co/collections/GAIR/octothinker-68035e416813f9833a8060f3), which is trained on Llama-3 series.
 
 ## 📖 Introduction
 
