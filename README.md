@@ -1,18 +1,26 @@
 <div align="center">
-<h1>🐙 OctoThinker<br>Revisiting Mid-training in the Era of RL Scaling</h1>
+<h1>🐙 OctoThinker<br>
+Mid-training Incentivizes Reinforcement Learning Scaling
+</h1>
 </div>
-
 <div align="center">
 
+[![arXiv](https://img.shields.io/badge/arXiv-2506.20512-red?style=for-the-badge&.svg)](https://arxiv.org/abs/2506.20512)
 [![Notion](https://img.shields.io/badge/Notion_Blog-4d8cd8?style=for-the-badge&logo=notion&logoColor=white)](https://tinyurl.com/OctoThinker)
-[![Model](https://img.shields.io/badge/Model_Weights-5f16a8?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/OctoThinker)
+[![HF Org (Model & Data)](https://img.shields.io/badge/HF_Org_(Data_&_Model)-5f16a8?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/OctoThinker)
 </div>
 
+> *Revisiting Mid-training in the Era of RL Scaling*
 
 ## 🔥 News
+- **[2025-06-26]** 🎉🎉🎉 We release our detailed technical report on [**arXiv**](https://arxiv.org/abs/2506.15283) 
+and MegaMath-Pro-Max corpus on [**HuggingFace**](https://huggingface.co/datasets/OctoThinker/MegaMath-Web-Pro-Max).
 - **[2025-04-24]** 🎉🎉🎉 We release our first progress blog on [**Notion**](https://tinyurl.com/OctoThinker), together with the first version of our base and RL models on [**HuggingFace**](https://huggingface.co/collections/GAIR/octothinker-68035e416813f9833a8060f3), which is trained on Llama-3 series.
 
 ## 📖 Introduction
+
+
+![](./assets/octothinker_banner.png)
 
 > **Note:** We are still in the process of exploring more possibilities and expand to different model families, but we are eager to share some findings with the community from our empirical results in an open-source manner!
 
