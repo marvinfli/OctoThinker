@@ -109,13 +109,14 @@ We also provide the visualization code for the pre-training and RL process. All 
 For training framework and inference engine, we use [**verl**](https://github.com/volcengine/verl) and  [**vLLM**](https://github.com/vllm-project/vllm). We thank huggingface **[open-r1 team](https://huggingface.co/open-r1)**, [**a-m-team**](https://huggingface.co/a-m-team), and also [**SimpleRL**](https://github.com/hkust-nlp/simpleRL-reason) Project, to open source their dataset and training recipes. In fact, we are deeply grateful to the entire open‑source community for their tireless efforts in making our exploration possible.
 
 If you find this work useful, please cite:
+
 ```
-@misc{wang2025octothinker,
-  title={OctoThinker: Revisiting Mid-Training In the Era of RL Scaling},
+@article{wang2025octothinker,
+  title     = {OctoThinker: Mid-training Incentivizes Reinforcement Learning Scaling},
   author={Wang, Zengzhi and Zhou, Fan and Li, Xuefeng and Liu, Pengfei},
   year={2025},
-  howpublished={\url{https://tinyurl.com/OctoThinker}},
-  note={Notion Blog}
-  year={2025}
+  journal   = {arXiv preprint arXiv:2506.20512},
+  year      = {2025},
+  note      = {Preprint}
 }
 ```
