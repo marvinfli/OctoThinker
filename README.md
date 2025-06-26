@@ -13,7 +13,7 @@ Mid-training Incentivizes Reinforcement Learning Scaling
 > *Revisiting Mid-training in the Era of RL Scaling*
 
 ## 🔥 News
-- **[2025-06-26]** 🎉🎉🎉 We release our detailed technical report on [**arXiv**](https://arxiv.org/abs/2506.15283) 
+- **[2025-06-26]** 🎉🎉🎉 We release our detailed technical report on [**arXiv**](https://arxiv.org/abs/2506.20512) 
 and MegaMath-Pro-Max corpus on [**HuggingFace**](https://huggingface.co/datasets/OctoThinker/MegaMath-Web-Pro-Max).
 - **[2025-04-24]** 🎉🎉🎉 We release our first progress blog on [**Notion**](https://tinyurl.com/OctoThinker), together with the first version of our base and RL models on [**HuggingFace**](https://huggingface.co/collections/GAIR/octothinker-68035e416813f9833a8060f3), which is trained on Llama-3 series.
 
